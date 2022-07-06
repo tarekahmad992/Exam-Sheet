@@ -93,6 +93,12 @@ section {
     text-align: center;
 }
 
+.box {
+    background-color: indigo;
+    padding: 2%;
+    background-position: 100px;
+}
+
 
 footer {
     text-align: center;
