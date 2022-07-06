@@ -19,6 +19,7 @@
 section {
     display: flex;
     margin-bottom: 100px;
+
 }
 
 .half-width {
@@ -91,6 +92,7 @@ section {
 .last {
     text-align: center;
 }
+
 
 footer {
     text-align: center;
