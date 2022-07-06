@@ -87,3 +87,15 @@ section {
     margin-right: 30px;
     padding: 2%;
 }
+
+.last {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-style: initial;
+
+    background-color: rgb(95, 192, 5);
+    padding-bottom: 0;
+}
