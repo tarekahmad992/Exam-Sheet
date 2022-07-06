@@ -1,0 +1,10 @@
+.header {
+    color: rgb(241, 237, 228);
+}
+
+.image {
+    text-align: center;
+    background-image: url(donation4.jpg);
+    background-size: cover;
+    height: 300px;
+}
