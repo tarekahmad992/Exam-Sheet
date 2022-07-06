@@ -8,3 +8,16 @@
     background-size: cover;
     height: 300px;
 }
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
